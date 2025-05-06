@@ -1,5 +1,8 @@
 # Roomie: A Modern Roommate Finder for UW-Eau Claire Students
 
+This project was completed in a Mobile Development class as part of UWEC curriculum. It is unfinished and not in production. 
+
+
 Roomie is a fast and modern mobile application built in Android Studio using the Kotlin programming language. Designed to help UW-Eau Claire students find roommates easily, Roomie offers an intuitive interface, an in-app database, and a smart matching algorithm to connect users based on their roommate preferences.
 
 Key Features:
