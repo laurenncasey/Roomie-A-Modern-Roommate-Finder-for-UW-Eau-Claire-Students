@@ -1,33 +1,51 @@
-# Roomie: A Modern Roommate Finder for UW-Eau Claire Students
+# Roomie: A Modern Roommate Finder for UW–Eau Claire Students
 
-This project was completed in a Mobile Development class as part of UWEC curriculum. It is unfinished and not in production. 
+This project was developed as part of a **Mobile Development** course at the University of Wisconsin–Eau Claire.  
+> **Note:** This project is unfinished and not currently in production.
 
+## Overview
 
-Roomie is a fast and modern mobile application built in Android Studio using the Kotlin programming language. Designed to help UW-Eau Claire students find roommates easily, Roomie offers an intuitive interface, an in-app database, and a smart matching algorithm to connect users based on their roommate preferences.
+**Roomie** is a fast and modern mobile application built with Android Studio using the Kotlin programming language. Designed to help UW–Eau Claire students find compatible roommates, Roomie features an intuitive user interface, in-app data storage, and a smart matching algorithm based on roommate preferences.
 
-Key Features:
-Matching Algorithm: Roomie’s algorithm matches users with potential roommates who align with their preferences by at least 62.5%.
-Roommate Preferences: Users can set detailed roommate preferences, which the app uses to generate tailored matches.
-In-App Messaging: When two users mutually accept each other as roommates, they can communicate directly through the app.
-Swipe-to-Match: Users can browse through roommate candidates and choose to accept or decline their matches.
-Data Privacy: All user information remains securely within the app; no external data usage or sharing.
-How It Works:
-Users create a profile, set their roommate preferences, and are stored in the app’s internal database.
-Roomie’s matching algorithm suggests potential roommates with a 62.5% or higher match rate.
-Users swipe through potential roommates and can accept or decline matches.
-If two users accept each other, in-app messaging is enabled, allowing them to connect and chat.
-Authors and Contributions:
-Jacob Korf
+## Key Features
 
-Implemented functionality for the Settings activity, allowing users to delete their accounts, reset profiles, or update roommate preferences.
-Blake Furlano
+- **Matching Algorithm**  
+  Suggests potential roommates with at least a 62.5% preference match.
 
-Developed the in-app database and contributed to the functionality of the Sign Up, Log In, and Forgot Password activities.
-Zach Terry
+- **Roommate Preferences**  
+  Allows users to set detailed roommate criteria, which the app uses for tailored matches.
 
-Designed and implemented the Messaging feature and the list of matches, enabling users to communicate with their chosen roommates.
-Lauren Casey
+- **In-App Messaging**  
+  Enables users to chat directly once both accept the match.
 
-Managed the app’s database and created layouts for most activities. Developed functionality for the Profile, Roommate Preferences, Matching Algorithm, and Swipe-to-Match features.
-Roomie is designed to ensure an efficient, privacy-focused experience for students looking to find their perfect roommate match within the UW-Eau Claire community.
+- **Swipe-to-Match**  
+  Users can swipe to accept or decline roommate candidates.
 
+- **Data Privacy**  
+  All user information is stored securely within the app. No external data is shared.
+
+## How It Works
+
+1. Users create a profile and set their roommate preferences.
+2. The app stores data in its internal database.
+3. Roomie’s algorithm suggests potential roommates with a match rate of 62.5% or higher.
+4. Users swipe through matches, accepting or declining them.
+5. If both users accept, in-app messaging is enabled.
+
+## Authors and Contributions
+
+- **Jacob Korf**  
+  Implemented the Settings activity, including account deletion, profile reset, and preference updates.
+
+- **Blake Furlano**  
+  Developed the in-app database and implemented Sign Up, Log In, and Forgot Password functionalities.
+
+- **Zach Terry**  
+  Designed and built the Messaging feature and Matches List for user communication.
+
+- **Lauren Casey**  
+  Managed the app database, designed layouts, and implemented the Profile, Preferences, Matching Algorithm, and Swipe-to-Match features.
+
+---
+
+**Roomie** aims to deliver a seamless and privacy-focused roommate search experience tailored to the UW–Eau Claire community.
